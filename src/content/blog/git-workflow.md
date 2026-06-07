@@ -2,7 +2,7 @@
 title: '旅行摄影入门：带上相机去远方'
 description: '分享一些实用的旅行摄影技巧，从装备选择到构图取景，让你的旅途记录更有质感。'
 pubDate: '2025-06-03'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/DSC01871-已增强-NR_1.jpg'
 ---
 
 旅行和摄影是天生的一对。几年下来积累了一些心得，分享给同样喜欢在路上拍照的朋友。

@@ -2,7 +2,7 @@
 title: '下半年旅行计划：想去的地方'
 description: '整理了下半年想要探索的目的地——从川西高原到江南古镇，有些地方想了很久，是时候出发了。'
 pubDate: '2025-06-07'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/_HY_3270.jpg'
 ---
 
 六月了，该为接下来的半年做些旅行规划了。以下是我下半年想去的地方，有些是计划已久的，有些是最近才被种草的。
