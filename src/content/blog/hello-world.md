@@ -1,8 +1,8 @@
 ---
 title: '云南行吟'
 description: '苍山洱海，大理丽江。七日行旅，一路风月一路诗。'
-pubDate: '2025-06-01'
-updatedDate: '2025-06-07'
+pubDate: '2026-06-07'
+updatedDate: '2026-06-07'
 heroImage: '../../assets/C4206773.jpg'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: '海边夜吟'
 description: '三日逃离，面朝大海。潮起潮落，星移斗转——生活本该有诗与远方。'
-pubDate: '2025-06-05'
+pubDate: '2026-06-07'
 heroImage: '../../assets/_HY_2954.jpg'
 ---
 

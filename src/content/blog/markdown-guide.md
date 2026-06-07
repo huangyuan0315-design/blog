@@ -1,7 +1,7 @@
 ---
 title: '远方赋'
 description: '下半年行旅之志。川西雪域、江南烟雨、西北大漠——心之所向，皆是远方。'
-pubDate: '2025-06-07'
+pubDate: '2026-06-07'
 heroImage: '../../assets/_HY_3131.jpg'
 ---
 

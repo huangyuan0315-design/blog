@@ -1,7 +1,7 @@
 ---
 title: '摄影吟'
 description: '以光影为笔，山河为卷。记录旅途中的光影瞬间，一镜一世界，一瞬一千年。'
-pubDate: '2025-06-03'
+pubDate: '2026-06-07'
 heroImage: '../../assets/DSC01871-已增强-NR_1.jpg'
 ---
 
