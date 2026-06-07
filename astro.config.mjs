@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
 
 export default defineConfig({
-	site: 'https://blog.pages.dev',
+	site: 'https://huangyuan-blog.pages.dev',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
