@@ -3,7 +3,7 @@ title: '云南七日：从大理到丽江'
 description: '七天时间，走过了大理古城、洱海、苍山和丽江古城，记录下这段难忘的旅程。'
 pubDate: '2025-06-01'
 updatedDate: '2025-06-07'
-heroImage: '../../assets/DSC00156.jpg'
+heroImage: '../../assets/C4206773.jpg'
 ---
 
 ## 出发
